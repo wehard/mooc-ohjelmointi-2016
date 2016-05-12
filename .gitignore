@@ -1,0 +1,10 @@
+# Ignore everything
+*
+
+# Except src and test dirs
+!*
+*/*
+!*/src
+!*/test
+
+.DS_Store
